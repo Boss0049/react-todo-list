@@ -1,0 +1,8 @@
+{
+  "todos": [
+    { "id": 1, "text": "Styleguide creation", "completed": false },
+    { "id": 2, "text": "Send wireframes", "completed": true },
+    { "id": 3, "text": "Readability About page", "completed": false },
+    { "id": 4, "text": "Check color contrast", "completed": false }
+  ]
+}
